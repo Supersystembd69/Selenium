@@ -1,0 +1,36 @@
+Website=file:///F:/WebSite/SuperTech.html     
+SocialMedia= Social Media    
+Google=Google
+GoogleSearch=q
+ConfirmBox=.//*[@id='btnConfirm']
+ShowAlert=.//*[@id='btnAlert']
+ShowPrompt=.//*[@id='btnPrompt']
+
+ScrollText=.//*[@id='fullbody']/div[1]/marquee/font
+
+Countries=Countries
+Bangladesh=Bangladesh
+BangladeshFlag=html/body/img
+
+Website1=file:///F:/WebSite/JavaScript/DragAndDrop.html
+Source=.//*[@id='div1']
+Target=.//*[@id='div2']
+
+DoubleClick=.//*[@id='fullbody']/button[1]
+
+File=.//*[@id='fullbody']/div[4]/form/input[1]
+PointofSM=Social Media
+LoginFrame=LoginForm
+FName= first_name
+LName=last_name
+W3School=.//*[@id='fullbody']/iframe[3]
+SRCBTN=html/body/ul/li[5]/a/i
+SRCField=.//*[@id='gsc-i-id1']
+
+Filedown=.//*[@id='fullbody']/div[4]/form[2]/a
+
+Website2=file:///E:/WebSite/JavaScript/DataPicker.html
+StartDateBox=datepicker-8
+StartDate=.//*[@id='ui-datepicker-div']/table/tbody/tr[3]/td[2]/a
+EndDateBox=datepicker-9
+EndDate=.//*[@id='ui-datepicker-div']/table/tbody/tr[5]/td[7]/a

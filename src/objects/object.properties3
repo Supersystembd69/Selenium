@@ -1,0 +1,27 @@
+url1=https://www.facebook.com/
+FirstName=.//*[@id='u_0_1']
+LastName=.//*[@id='u_0_3']
+Email= .//*[@id='u_0_5']
+AgEmail=.//*[@id='u_0_8']
+Password=.//*[@id='u_0_a']
+Month=month
+Day=day
+Year=year
+Gender=.//*[@id='u_0_g']/span[2]
+SignUpButton=.//*[@id='u_0_i']
+
+url2=http://50years.ruet.ac.bd/registrationform.php
+Iam=.//*[@id='cmbParticipant']
+Title=.//*[@id='nameprefix']
+Name=name
+Series=.//*[@id='series']
+RollNo=.//*[@id='rollno']
+Department=department
+MobileNo=.//*[@id='mobileno']
+Email=.//*[@id='email']
+Position=.//*[@id='position']
+Address=.//*[@id='address']
+Recaptcha=.//*[@id='recaptcha_response_field']
+NextButton=.//*[@id='registrationform']/div/input
+
+

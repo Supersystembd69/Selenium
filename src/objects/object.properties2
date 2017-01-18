@@ -1,0 +1,15 @@
+url=http://www.priceline.com/
+Flight=.//*[@id='tab-flights']
+FromCity=.//*[@id='air-orig-0']
+ToCity=.//*[@id='air-dest-0']
+DepartDate=.//*[@id='flights-form']/div[4]/div[2]/label[1]/img
+SelectDeptDate=.//*[@id='ui-datepicker-div']/div[1]/table/tbody/tr[4]/td[5]/a
+
+SelectReturnDate=.//*[@id='ui-datepicker-div']/div[2]/table/tbody/tr[5]/td[5]/a
+
+AdultPassenger=.//*[@id='flights-form']/div[5]/label[1]/span[1]
+ChildPassenger=numChildren
+CabinClass=CabinClass
+SearchButton=.//*[@id='air-btn-submit-retl']
+TicketPrice=.//*[@id='filter-list']/div[4]/ol/li[1]/table/tbody/tr[1]/td[1]/div[2]/span[1]
+AirlineName=.//*[@id='filter-list']/div[4]/ol/li[1]/table/tbody/tr[1]/td[2]/ol/ol/li/strong

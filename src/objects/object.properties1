@@ -1,0 +1,20 @@
+Website=https://www.facebook.com/
+FN = .//*[@id='u_0_1']
+LastName=.//*[@id='u_0_3']
+Email=.//*[@id='u_0_5']
+AgEmail=.//*[@id='u_0_8']
+Password=.//*[@id='u_0_a']
+BirthMonth=month
+Day=day
+Year=year
+Gender= .//*[@id='u_0_e']
+SignUpButton=.//*[@id='u_0_i']
+CreatePage=Create a Page
+
+url=https://www.google.com/
+Login =.//*[@id='gb_70']
+CreateAccount =.//*[@id='link-signup']/a 
+FName = .//*[@id='FirstName']
+LName =.//*[@id='LastName']
+
+

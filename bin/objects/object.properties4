@@ -1,0 +1,14 @@
+url=http://50years.ruet.ac.bd/registrationform.php
+Iam=.//*[@id='cmbParticipant']
+Title=.//*[@id='nameprefix']
+Name=name
+Series=.//*[@id='series']
+RollNo=.//*[@id='rollno']
+Department=department
+MobileNo=.//*[@id='mobileno']
+Email=.//*[@id='email']
+Position=.//*[@id='position']
+Address=.//*[@id='address']
+Recaptcha=.//*[@id='recaptcha_response_field']
+NextButton=.//*[@id='registrationform']/div/input
+
